@@ -1,0 +1,25 @@
+body {
+ background-color: #72c6f7;
+ color: #FFFFFG;
+}
+h1 {
+ color: #cf3ef0;
+ text-align: center;
+ font-family: "Courier New";
+ font: italic 200% fantasy;
+h2 {
+ background-color: #92abe8;
+ color: #c286db;
+ text-align: center;
+ font-family: "Times New Roman";
+ font: italic 200% fantasy;
+ 
+}
+}
+p {
+ background-color: #92abe8;
+ font: italic 200% fantasy;
+ font-family: Arial;
+ text-align: center;
+ border: 3px groove #f50f82;
+}
